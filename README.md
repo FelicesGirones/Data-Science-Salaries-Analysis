@@ -3,7 +3,7 @@ Este conjunto de datos es útil para entender la distribución de los salarios e
 
 ### Objetivos:
 
-El objetivo principal de este ejercicio es aprender y aplicar técnicas de análisis y visualización de datos utilizando las bibliotecas de Python Matplotlib, Seaborn y Plotly. 
+El objetivo principal de este ejercicio es aprender y aplicar técnicas de análisis y visualización de datos utilizando las bibliotecas de Python Plotly. 
 
 Los pasos adecuados para completarlo son:
 
